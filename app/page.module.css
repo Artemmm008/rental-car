@@ -1,0 +1,56 @@
+.main {
+    position: relative;
+    height: 700px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.bgWrapper {
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+}
+
+
+.container {
+    margin-top: 436px;
+    text-align: center;
+    z-index: 1;
+}
+
+.title {
+    margin: 0 0 16px;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 1.2;
+    text-align: center;
+    color: #fff;
+}
+
+.description {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 1.33333;
+    text-align: center;
+    color: #fff;
+    margin: 0 0 40px;
+}
+
+.button {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 1.25;
+    color: #fff;
+    background: #3470ff;
+    border-radius: 12px;
+    padding: 12px 99px;
+    width: 276px;
+    height: 44px;
+    text-decoration: none;
+    margin: 0 0 60px;
+}
+
+.button:hover {
+    background: #0b44cd;
+}
