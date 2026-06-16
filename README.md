@@ -1,12 +1,8 @@
-🚗 Rental Car Service
-Сучасний веб-застосунок для перегляду каталогу автомобілів та створення заявок на оренду. Побудований з використанням Next.js, TypeScript та інтегрований із зовнішнім REST API.
+### 🚗 [Rental Car Service](https://github.com/Artemmm008/rental-car)
+A modern web application for browsing a car catalog and creating rental requests. Built with Next.js, TypeScript, and integrated with an external REST API.
 
-🌟 Особливості
-
-Каталог авто: Перегляд повного списку доступних автомобілів.
-
-Детальна сторінка: Повна інформація про авто.
-
-Бронювання: Зручна форма для відправки запиту на оренду.
-
-Сповіщення: Миттєвий зворотний зв'язок за допомогою react-hot-toast.
+#### 🌟 Features
+* **Car Catalog:** Browse the full list of available vehicles.
+* **Details Page:** View complete information about each car.
+* **Booking:** A user-friendly form to submit rental requests.
+* **Notifications:** Instant user feedback powered by `react-hot-toast`.
