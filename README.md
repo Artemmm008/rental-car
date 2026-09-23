@@ -6,7 +6,7 @@ A modern, responsive web application for searching, filtering, and booking renta
 
 ---
 
-## Features 🔥
+## Features
 
 - **Advanced Vehicle Search & Filtering:** Instant filtering by car brand, hourly/daily price range, and mileage.
 - **Detailed Car Profiles:** Interactive specification cards with rental conditions, car specifications, and user-friendly form.
@@ -15,7 +15,7 @@ A modern, responsive web application for searching, filtering, and booking renta
 
 ---
 
-## Key Technical Highlights 💡
+## Key Technical Highlights
 
 - **Smart API Query Caching:** Leveraged TanStack Query to keep vehicle lists cached in memory, eliminating layout shifts and flicker during filter resets.
 - **Strict Type Safety:** Fully typed API contracts, filter parameters, and component props with TypeScript to catch errors at compile time.
@@ -23,20 +23,20 @@ A modern, responsive web application for searching, filtering, and booking renta
 
 ---
 
-## Technologies Used 👨🏻‍💻
+## Technologies Used
 
-- **Next.js (App Router)** - _frontend framework & routing_
-- **TypeScript** - _strict static type checking_
-- **React Query (TanStack Query)** - _server state management & API caching_
-- **Axios** - _HTTP client for API communication_
-- **React-Select** - _accessible custom dropdowns & filter selects_
-- **CSS Modules** - _styling_
-- **ESLint & Prettier** - _code quality & formatting_
-- **Vercel** - _frontend hosting & deployment_
+- **Next.js**
+- **TypeScript**
+- **React Query**
+- **REST API**
+- **Axios**
+- **React-Select**
+- **CSS Modules**
+- **Vercel**
 
 ---
 
-## Installation & Setup 🔮
+## Installation & Setup
 
 To run the project locally, follow these steps:
 
